@@ -1,4 +1,4 @@
-其它语言页面：
+语言：
 [English](https://pandagix.github.io/index)
 [中文](https://pandagix.github.io/index_zh)
 [Deutsch](https://pandagix.github.io/index_de)
