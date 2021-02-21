@@ -4,4 +4,4 @@
 [Deutsch](https://pandagix.github.io/index_de)
 [日本語](https://pandagix.github.io/index_jp)
 
-## 欢迎试用 PandaGix
+## PandaGix: 基于 [Guix](https://guix.gnu.org/zh-cn) 的 Linux 发行版
