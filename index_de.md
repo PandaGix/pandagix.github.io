@@ -4,4 +4,4 @@ Sprache:
 [Deutsch](https://pandagix.github.io/index_de)
 [日本語](https://pandagix.github.io/index_jp)
 
-PandaGix: eine [Guix](https://guix.gnu.org/de)-basierte Linux-Disto
+## PandaGix: eine [Guix](https://guix.gnu.org/de)-basierte Linux-Disto
