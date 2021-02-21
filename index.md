@@ -1,4 +1,4 @@
-Page in other languages:
+Language:
 [English](https://pandagix.github.io/index)
 [中文](https://pandagix.github.io/index_zh)
 [Deutsch](https://pandagix.github.io/index_de)
