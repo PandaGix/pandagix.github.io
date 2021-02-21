@@ -1,6 +1,8 @@
+Page in other languages:
 [中文](https://pandagix.github.io/index_zh)
 [Deutsch](https://pandagix.github.io/index_de)
 [日本語](https://pandagix.github.io/index_jp)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PandaGix/pandagix.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
