@@ -4,28 +4,38 @@ Language:
 [Deutsch](https://pandagix.github.io/index_de)
 [日本語](https://pandagix.github.io/index_jp)
 
+
 ## PandaGix: a [Guix](https://guix.gnu.org/en) based Linux distro
+
 
 You can use the [editor on GitHub](https://github.com/PandaGix/pandagix.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
 ## Installation
 
 ## Download
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
+
+
 ## License
+
 
 Unless otherwise noted, all files in this distribution are released
 under the GNU GENERAL PUBLIC LICENSE (GPLv3).
 
 Exceptions are noted within the associated source files.
 
+
+
 ## Attention!
+
 
 This distro do contains non-free software but does NOT endorse any non-free software.
 We believe non-free software is non-ethical, harmful to software development and restricts the users' freedom.
