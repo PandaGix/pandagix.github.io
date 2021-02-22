@@ -10,34 +10,29 @@ You can use the [editor on GitHub](https://github.com/PandaGix/pandagix.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+## Download
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
+## License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Unless otherwise noted, all files in this distribution are released
+under the GNU GENERAL PUBLIC LICENSE (GPLv3).
+Exceptions are noted within the associated source files.
 
-### Jekyll Themes
+## Attention!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PandaGix/pandagix.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This distro do contains non-free software but does NOT endorse any non-free software.
+We believe non-free software is non-ethical, harmful to software development and restricts the users' freedom.
+See the [[https://www.gnu.org/philosophy/free-sw.en.html][GNU philosophy]] for a more thorough discussion.
 
-### Support or Contact
+Those non-free softwares/packages are provided as a last resort, should none of the official Guix packages work for you.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You should understand the implication of using non-free software. Some of those implications include:
+- Endorsement of non-free products and the perpetration of a culture of restriction on liberties.
+- Non-free software cannot (or hardly) be audited: it can potentially spy on you, destroy or steal your data.
+As a minimal security measure, runing non-free software inside a container is recommended.
