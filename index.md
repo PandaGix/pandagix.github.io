@@ -22,17 +22,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Unless otherwise noted, all files in this distribution are released
 under the GNU GENERAL PUBLIC LICENSE (GPLv3).
+
 Exceptions are noted within the associated source files.
 
 ## Attention!
 
 This distro do contains non-free software but does NOT endorse any non-free software.
 We believe non-free software is non-ethical, harmful to software development and restricts the users' freedom.
-See the [[https://www.gnu.org/philosophy/free-sw.en.html][GNU philosophy]] for a more thorough discussion.
+See the [GNU philosophy](https://www.gnu.org/philosophy/free-sw.en.html) for a more thorough discussion.
 
 Those non-free softwares/packages are provided as a last resort, should none of the official Guix packages work for you.
 
 You should understand the implication of using non-free software. Some of those implications include:
 - Endorsement of non-free products and the perpetration of a culture of restriction on liberties.
 - Non-free software cannot (or hardly) be audited: it can potentially spy on you, destroy or steal your data.
+
 As a minimal security measure, runing non-free software inside a container is recommended.
