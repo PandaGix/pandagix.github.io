@@ -58,5 +58,6 @@ at [Discussions](https://github.com/PandaGix/pandagix.github.io/discussions) and
 - [x] Auto-build with GitLab's CI/CD for the Live-ISO 
 - [ ] Laptop and tablet compatible on x86_64 (WiFi, Bluetooth, touchpad, touchscreen, etc.)
 - [ ] Disk installation to removable disk
+- [ ] A graphical guided installer that runs in the Live-ISO
 - [ ] Coustom _channel_ with useful apps [ChnGix](https://git.nju.edu.cn/nju/chngix)
 - [ ] Internationalization (some GNOME components, prefer contributions to upstream Guix)
