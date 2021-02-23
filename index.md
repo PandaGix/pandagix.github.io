@@ -25,7 +25,7 @@ The template file for operating system config will soon be available on this sit
 ## License
 
 Unless otherwise noted, all files in this distribution are released
-under the GNU GENERAL PUBLIC LICENSE (GPLv3).
+under the [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) (GPLv3).
 
 Exceptions are noted within the associated source files.
 
