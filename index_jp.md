@@ -4,4 +4,7 @@
 [Deutsch](https://pandagix.github.io/index_de)
 [日本語](https://pandagix.github.io/index_jp)
 
-## PandaGix は [Guix](https://guix.gnu.org/en) をベースに Linux distro です。
+## 概観
+
+PandaGix は [Guix](https://guix.gnu.org/en) をベースに Linux distro です。
+
