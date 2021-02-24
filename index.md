@@ -32,7 +32,8 @@ Exceptions are noted within the associated source files.
 
 This distro do contains non-free software but does NOT endorse any non-free software.
 We believe non-free software is non-ethical, harmful to software development and restricts the users' freedom.
-See the [GNU philosophy](https://www.gnu.org/philosophy/free-sw.en.html) for a more thorough discussion.
+See the [GNU philosophy](https://www.gnu.org/philosophy/philosophy.en.html) 
+and [What is free software?](https://www.gnu.org/philosophy/free-sw.en.html) for a more thorough discussion.
 
 Those non-free softwares/packages are provided as a last resort, should none of the official Guix packages work for you.
 
