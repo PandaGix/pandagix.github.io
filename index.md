@@ -42,11 +42,15 @@ You should understand the implication of using non-free software. Some of those 
 
 As a minimal security measure, runing non-free software inside a container is recommended.
 
-## Contribution
+## Contact
 
 Bug reports may go to [Issues](https://github.com/PandaGix/pandagix.github.io/issues).
 
 Ideas and advices are welcome at [Discussions](https://github.com/PandaGix/pandagix.github.io/discussions).
+
+[XMPP chat room](https://blabber.im/en/j/pandagixusers@conference.blabber.im): pandagixusers@conference.blabber.im
+
+## Contribution
 
 Help with **Goals** below through [PR](https://github.com/PandaGix/pandagix.github.io/pulls) or 
 at [Discussions](https://github.com/PandaGix/pandagix.github.io/discussions) and [Issues](https://github.com/PandaGix/pandagix.github.io/issues).
