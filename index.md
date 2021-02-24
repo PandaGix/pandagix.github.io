@@ -48,7 +48,7 @@ Bug reports may go to [Issues](https://github.com/PandaGix/pandagix.github.io/is
 
 Ideas and advices are welcome at [Discussions](https://github.com/PandaGix/pandagix.github.io/discussions).
 
-[XMPP chat room](https://blabber.im/en/j/pandagixusers@conference.blabber.im): pandagixusers@conference.blabber.im
+[XMPP chat room](https://blabber.im/en/j/pandagixusers@conference.blabber.im) URL or URI xmpp:pandagixusers@conference.blabber.im
 
 ## Contribution
 
