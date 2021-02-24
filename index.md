@@ -53,8 +53,7 @@ XMPP [chat room](https://blabber.im/en/j/pandagixusers@conference.blabber.im) UR
 
 ## Contribution
 
-Help with **Goals** below through [PR](https://github.com/PandaGix/pandagix.github.io/pulls) or 
-at [Discussions](https://github.com/PandaGix/pandagix.github.io/discussions) and [Issues](https://github.com/PandaGix/pandagix.github.io/issues).
+Help with **Goals** below through [PR](https://github.com/PandaGix/pandagix.github.io/pulls). 
 
 ## Goals
 
