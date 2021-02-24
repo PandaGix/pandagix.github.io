@@ -41,7 +41,9 @@ PandaGix 是基于 [Guix](https://guix.gnu.org/zh-cn) 的 Linux 发行版。
 
 ## 贡献
 
-和我们一起达成下列 **目标**，欢迎提交 [PR](https://github.com/PandaGix/pandagix.github.io/pulls)。 
+将现在这个页面打造得更好，欢迎提交 [PR](https://github.com/PandaGix/pandagix.github.io/pulls)。 
+
+和我们一起达成下列 **目标**，欢迎通过各种方式联系加入讨论。
 
 ## 目标
 
