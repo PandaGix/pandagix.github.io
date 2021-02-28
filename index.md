@@ -10,7 +10,7 @@ PandaGix is a [Guix](https://guix.gnu.org/en) based Linux distro.
 
 ## Download
 
-[ISO releases](https://github.com/PandaGix/PandaGixISO/releases)
+[ISO releases](https://github.com/PandaGix/PandaGixISO/releases) that can be used to make a bootable USB-stick
 
 ## Installation
 
