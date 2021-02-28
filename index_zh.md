@@ -10,7 +10,7 @@ PandaGix 是基于 [Guix](https://guix.gnu.org/zh-cn) 的 Linux 发行版。
 
 ## 下载
 
-[PandaGix-5.4.98-GNOME-Live-ISO](https://git.nju.edu.cn/nju/pandagix-test/-/jobs/5933/artifacts/file/PandaGix-5.4.98z-c317k45x6kr02jdjjjvnz1fb5s5qlqr6-image.iso)
+可用于制作启动U盘的[ISO镜像](https://git.nju.edu.cn/nju/pandagix-test/-/jobs/5933/artifacts/file/PandaGix-5.4.98z-c317k45x6kr02jdjjjvnz1fb5s5qlqr6-image.iso)
 
 ## 安装
 
