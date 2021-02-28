@@ -10,7 +10,7 @@ PandaGix ist eine [Guix](https://guix.gnu.org/de)-basierte Linux-Distro.
 
 ## Herunterladen
 
-[PandaGix-5.4.98-GNOME-Live-ISO](https://git.nju.edu.cn/nju/pandagix-test/-/jobs/5933/artifacts/file/PandaGix-5.4.98z-c317k45x6kr02jdjjjvnz1fb5s5qlqr6-image.iso)
+[ISO](https://github.com/PandaGix/PandaGixISO/releases)
 
 ## Installation
 
